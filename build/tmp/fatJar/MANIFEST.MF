@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: Gradle Jar File Example
+Premain-Class: swing.common.ObjectSizeFetcher
+Implementation-Version: 4.0
+Can-Retransform-Classes: true
+Main-Class: cic.cs.unb.ca.ifm.App
+
